@@ -1,0 +1,6 @@
+module Pods_GitHubRxSwiftTests {
+  umbrella header "Pods-GitHubRxSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

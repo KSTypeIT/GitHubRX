@@ -1,0 +1,6 @@
+module Pods_GitHubRxSwift {
+  umbrella header "Pods-GitHubRxSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
